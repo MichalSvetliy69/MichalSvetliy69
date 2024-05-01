@@ -21,5 +21,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### MeetMaker
 <p align="left"> <a href="https://discord.com/users/457145652837875713" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MichalSvetliy69/MichalSvetliy69/blob/main/MeetMakerLogo.PNG" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/MichalSvetliy69/MichalSvetliy69/blob/main/MeetMakerLogo.PNG" /> <img src="https://github.com/MichalSvetliy69/MichalSvetliy69/blob/main/MeetMakerLogo.PNG" width="100" height="90" /> </picture> </a></p>
 
-#### MeetMaker
-is a web application that provides the ability to conveniently search, create, monitor events and automate organizational processes.
+#### MeetMaker is a web application that provides the ability to conveniently search, create, monitor events and automate organizational processes.
+
