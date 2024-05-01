@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michail Svetliy
 =======================================================================================================================================
 
-* 🌍  I'm based in Russia
+* 🌍  I'm based in Russia, Novosibirsk
 * ✉️  You can contact me at [mihand3@mail.ru](mailto:mihand3@mail.ru)
 * 🚀  I'm currently working on [MeetMaker](http://get-together.ru/)
-* 🧠  I'm learning Siberian University of Consumer Cooperation
+* 🧠  I'm learning Siberian University of Consumer Cooperation Faculty of Economics and Management, Applied Informatics, 3rd year (2023-24)
 
 ### Skills
 
